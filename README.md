@@ -21,7 +21,7 @@ The Date of Birth Calculator in Minutes is an Android application built with Kot
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/dob-calculator-in-minutes.git
+   git clone https://github.com/shahrukhqureshi/dob-calculator-in-minutes.git
    ```
 2. **Open the project in Android Studio:**
    - Open Android Studio.
@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the Kotlin and Android communities for their excellent resources and support.
 
 ## Contact
-If you have any questions, feel free to reach out at [your-email@example.com].
+If you have any questions, feel free to reach out at [shahrukh.ravian@example.com].
 
 ---
 
